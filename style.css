@@ -132,7 +132,7 @@ svg {
 
 .cart__icon::before {
     content: '';
-    background-image: url('/images/icon-cart.svg');
+    background-image: url('./images/icon-cart.svg');
     height: 16px;
     width: 15px;
 }
